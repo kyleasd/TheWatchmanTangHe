@@ -1,0 +1,8 @@
+# Godot 4 生成的缓存与导入数据
+.godot/
+export/
+*.tmp
+
+# 系统文件
+.DS_Store
+Thumbs.db
